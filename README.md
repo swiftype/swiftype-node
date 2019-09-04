@@ -1,6 +1,11 @@
 <p align="center"><img src="https://github.com/swiftype/swiftype-node/blob/master/logo-site-search.png?raw=true" alt="Elastic Site Search Logo"></p>
 
-<p align="center"><a href="https://travis-ci.org/swiftype/swiftype-node"><img src="https://travis-ci.org/swiftype/swiftype-node.svg?branch=master" alt="Travis build"></a>
+> **⚠️ This repository is deprecated ⚠️**
+>
+> **Please visit [https://github.com/elastic/app-search-node](https://github.com/elastic/app-search-node) for the up to date version. Thank you! - Elastic**
+
+
+<p align="center">
 <a href="https://github.com/swiftype/swiftype-node/releases"><img src="https://img.shields.io/github/release/swiftype/swiftype-node/all.svg?style=flat-square" alt="GitHub release" /></a></p>
 
 > A first-party Node client for the [Elastic Site Search API](https://swiftype.com/documentation/site-search/overview).
