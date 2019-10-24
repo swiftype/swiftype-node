@@ -2,7 +2,7 @@
 
 > **⚠️ This repository is deprecated ⚠️**
 >
-> **Please visit [https://github.com/elastic/app-search-node](https://github.com/elastic/app-search-node) for the up to date version. Thank you! - Elastic**
+> **Please visit [https://github.com/elastic/site-search-node](https://github.com/elastic/site-search-node) for the up to date version. Thank you! - Elastic**
 
 
 <p align="center">
